@@ -12,6 +12,8 @@ $ git config --global user.email "my@email.ca"
 ... to continue this document with relevant git commands!
 # oh my doggy test test test
 
+# new changes to test the branch IntroToGit
+
 # Markdown Cheatsheet
 
 http://commonmark.org/help/
